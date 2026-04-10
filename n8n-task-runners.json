@@ -1,6 +1,9 @@
 {
   "task-runners": [
     {
+      "runner-type": "javascript"
+    },
+    {
       "runner-type": "python",
       "env-overrides": {
         "PYTHONPATH": "/opt/runners/task-runner-python",
